@@ -12,4 +12,4 @@ Step 4: As you're ready, run git push to upload your saved changes to Github.
 
 Step 5: Submit a link to your repo here!
 
-If something really isn't working and you've tried to get help, don't panic -- you can get the files from Canvas under Files > Homework > HW3 and then manually upload them to Github. This option will not always be available, so come to office hours or ask your GSI and we can help you figure out Git/Github.
+If something really isn't working and you've tried to get help, don't panic -- you can get the files from Canvas under Files > Discussion > Discussion 3 and then manually upload them to Github. This option will not always be available, so come to office hours or ask your GSI and we can help you figure out Git/Github.
